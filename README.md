@@ -11,7 +11,7 @@ I’m a passionate developer who has just completed a diploma in Multiplatform A
 ## 🌱 I’m currently learning...
 
 - **Angular:** Enhancing my skills to use it effectively with Spring Boot.
-- 
+
 ## 💞️ I’m looking to collaborate on...
 
 - **Open Source Contributions:** Eager to contribute to and learn from the open-source community.
